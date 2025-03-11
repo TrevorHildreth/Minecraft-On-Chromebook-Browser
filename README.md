@@ -21,12 +21,3 @@
    ![Screenshot 2025-03-10 164536](https://github.com/user-attachments/assets/6aaefcb9-b615-4b67-85f5-c7cb5bff6b5e)
 
 ---
-
-## 📂 Repository Structure
-```plaintext
-/
-├── src/             # Source code for the game
-├── assets/          # Game graphics and resources
-├── docs/            # Documentation and guides
-├── LICENSE          # Licensing information
-└── README.md        # You're here!
